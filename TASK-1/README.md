@@ -3,7 +3,7 @@
 This is a Streamlit-based AI-powered chatbot that allows users to upload **multiple PDFs**, ask questions, and get **smart answers**, **summaries**, **bullet points**, and **comparisons** — all with **structured markdown formatting**.
 
 ### 🚀 Live Demo
-👉 [Click here](https://smartpdfbot-d7npwcop5pbahvuxmk265t.streamlit.app/)
+👉 [Click here to use the deployed chatbot](https://smartpdfbot-d7npwcop5pbahvuxmk265t.streamlit.app/)
 
 ---
 
