@@ -1,11 +1,11 @@
-# AI-ML-INTERNSHIP
 # ✨ AI & Machine Learning Internship 
-
 ---
 
 ## 🚀 Overview
 
-This repository contains a collection of **real-time AI & Machine Learning projects** completed during my 2-month internship. These projects span across Natural Language Processing (NLP), Conversational AI, Voice Interfaces, Educational Tools, and Media Generation using LLMs like **Google Gemini**, and frameworks such as **LangChain**, **FAISS**, and **Streamlit**.
+This repository contains the top 5 real-time AI/ML projects I developed during my internship. These projects focus on solving real-world problems using advanced tools like **Google Gemini**, **LangChain**, **FAISS**, **Streamlit**, and more.
+
+Each project is placed in a dedicated folder with code, dependencies, and instructions.
 
 ---
 
@@ -13,40 +13,50 @@ This repository contains a collection of **real-time AI & Machine Learning proje
 
 | Folder      | Project Title                            | Description |
 |-------------|------------------------------------------|-------------|
-| `PROJECT-1` | 📚 **Multi-PDF Conversational Chatbot**   | Upload multiple PDFs and ask questions across them with chat memory and source reference using FAISS + Gemini + LangChain. |
-| `PROJECT-2` | 🎤 **Voice-Enabled PDF AI Chatbot**       | Voice-based chatbot that accepts PDF input and allows voice-to-text and text-to-speech interaction. |
-| `PROJECT-3` | 🎧 **AI-Powered Podcast Generator**       | Converts PDFs and notes into narrated podcasts with Gemini-based script generation and voice output using pyttsx3 + pydub. |
-| `PROJECT-4` | 🛒 **E-Commerce AI Support Chatbot**      | Helps users track orders, cancel items, and get product info using NLP techniques (TF-IDF + Cosine Similarity). |
-| `PROJECT-5` | 🧠 **AI Study Assistant**                 | Summarizes class notes, creates flashcards, quizzes, and answers questions with both text and voice input support. |
+| `PROJECT-1` | 📚 **Multi-PDF Conversational Chatbot**   | Upload and query multiple PDFs using Gemini LLM, FAISS, and LangChain with memory and source tracking. |
+| `PROJECT-2` | 🎤 **Voice-Enabled AI Chatbot**           | A voice-based chatbot with PDF input and speech output. Supports real-time voice interaction using SpeechRecognition and pyttsx3. |
+| `PROJECT-3` | 🛒 **AI E-Commerce Support Chatbot**      | Tracks and cancels orders, answers product queries using NLP (TF-IDF & cosine similarity), simulating real-world customer support. |
+| `PROJECT-4` | 🧠 **AI Study Assistant**                 | Assists students by summarizing notes, creating quizzes/flashcards, and answering questions via voice or text. |
+| `PROJECT-5` | 🎧 **AI Podcast Generator**               | Converts PDF/notes into a narrated podcast with AI-generated summary, script, and downloadable MP3 using Gemini and pyttsx3. |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: Python  
-- **Web Interface**: Streamlit  
+- **Interface**: Streamlit  
 - **LLMs**: Google Gemini Pro, Gemini 1.5 Flash  
-- **Memory & Retrieval**: LangChain, FAISS  
-- **Voice Tools**: SpeechRecognition, pyttsx3, pydub  
-- **Text Processing**: TF-IDF, Cosine Similarity, Regex  
-- **Visualization**: Markdown, HTML, Streamlit Chat Bubbles  
+- **Memory & Retrieval**: FAISS, LangChain  
+- **Voice**: SpeechRecognition, pyttsx3, pydub  
+- **Text Analysis**: TF-IDF, Cosine Similarity  
+- **PDF Handling**: PyMuPDF, PyPDF2  
 - **Deployment**: Streamlit Cloud (for selected projects)
 
 ---
 
 ## 📌 Highlights
 
-✅ Full-stack AI app development with modern tools  
-✅ Seamless integration of LLMs with UI  
-✅ Real-time search and chatbot memory  
-✅ Voice interaction and natural language understanding  
-✅ Projects tailored for productivity, learning, and e-commerce
+✅ Full-stack AI/ML app development  
+✅ Hands-on with Gemini LLM integration  
+✅ Real-time chatbot memory and voice features  
+✅ Project variety: EdTech, E-Commerce, Productivity  
+✅ Focused on real-world, end-to-end solutions  
 
 ---
+Run a project 
 
-## 🧪 How to Run Locally
+pip install -r requirements.txt
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/VASANTHARUBINI/AI-ML-INTERNSHIP.git
-   cd AI-ML-INTERNSHIP
+cd PROJECT-1
+streamlit run app.py
+
+
+## 🔐 Environment Variables
+
+To use Google Gemini API securely, create a `.env` file in the root directory with your API key:
+
+```env
+GEMINI_API_KEY=your_actual_gemini_api_key_here
+
+
+
