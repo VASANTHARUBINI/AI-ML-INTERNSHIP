@@ -28,6 +28,10 @@ This project is an AI-powered chatbot that allows users to upload **multiple PDF
 
 ---
 
+### 🚀 Live Demo
+👉 [Click here to use the deployed chatbot](https://smartpdfbot-d7npwcop5pbahvuxmk265t.streamlit.app/)
+
+
 ## 🔐 Setup
 
 1. Clone the repository and navigate to the project folder:
