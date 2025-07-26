@@ -43,7 +43,7 @@ Each project is placed in a dedicated folder with code, dependencies, and instru
 ✅ Focused on real-world, end-to-end solutions  
 
 ---
-Run a project 
+## Run a project 
 
 pip install -r requirements.txt
 
