@@ -1,0 +1,51 @@
+product_id,product_name,available_sizes,stock_status
+P1001,Smartwatch from Augio,-,Out of Stock
+P1002,Shoes from Amazon,"S,M,XL",In Stock
+P1003,Smartwatch from Augio,-,Out of Stock
+P1004,Laptop from Amazon,-,Out of Stock
+P1005,Laptop from Augio,-,In Stock
+P1006,Charger from Myntra,-,Out of Stock
+P1007,Shoes from Zodio,"XL,S,M,L",Out of Stock
+P1008,Headphones from Augio,-,Limited Stock
+P1009,Backpack from Amazon,-,Out of Stock
+P1010,Backpack from Augio,-,Limited Stock
+P1011,Camera from Amazon,-,Out of Stock
+P1012,Backpack from Zodio,-,Out of Stock
+P1013,Laptop from Flipkart,-,Out of Stock
+P1014,Shoes from Flipkart,"XL,L",Out of Stock
+P1015,Smartwatch from Amazon,-,Out of Stock
+P1016,Camera from Zodio,-,Limited Stock
+P1017,Headphones from Myntra,-,Limited Stock
+P1018,Headphones from Myntra,-,Out of Stock
+P1019,Smartwatch from Flipkart,-,Out of Stock
+P1020,Laptop from Flipkart,-,Limited Stock
+P1021,Backpack from Augio,-,In Stock
+P1022,Laptop from Zodio,-,Out of Stock
+P1023,Laptop from Augio,-,In Stock
+P1024,Smartwatch from Amazon,-,In Stock
+P1025,Smartphone from Myntra,-,Out of Stock
+P1026,Shoes from Zodio,"L,S,XL",In Stock
+P1027,Camera from Zodio,-,Out of Stock
+P1028,Smartphone from Amazon,-,In Stock
+P1029,T-shirt from Myntra,"XL,S",In Stock
+P1030,Keyboard from Flipkart,-,Out of Stock
+P1031,Smartphone from Zodio,-,Limited Stock
+P1032,Backpack from Flipkart,-,In Stock
+P1033,Camera from Augio,-,Limited Stock
+P1034,Keyboard from Augio,-,Limited Stock
+P1035,Camera from Myntra,-,Out of Stock
+P1036,Smartwatch from Zodio,-,In Stock
+P1037,Laptop from Zodio,-,Out of Stock
+P1038,Backpack from Augio,-,In Stock
+P1039,Smartwatch from Augio,-,Limited Stock
+P1040,Backpack from Myntra,-,Limited Stock
+P1041,Charger from Flipkart,-,Out of Stock
+P1042,Keyboard from Amazon,-,Out of Stock
+P1043,Shoes from Flipkart,"S,M",Out of Stock
+P1044,Smartwatch from Augio,-,Limited Stock
+P1045,Camera from Augio,-,Limited Stock
+P1046,Smartwatch from Zodio,-,Limited Stock
+P1047,Camera from Zodio,-,Limited Stock
+P1048,Headphones from Augio,-,Out of Stock
+P1049,Backpack from Amazon,-,In Stock
+P1050,Backpack from Augio,-,In Stock
