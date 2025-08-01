@@ -29,6 +29,11 @@ This project is a **voice-interactive AI chatbot** that allows users to upload P
 - `PyMuPDF`, `PyPDFLoader` – PDF text extraction
 
 ---
+## Sample Output
+
+     🎤 You said: “Compare both uploaded documents.”
+
+     🤖 Response: "Document 1 outlines the AI syllabus; Document 2 provides use cases of AI in healthcare and education."
 
 ## 🔐 Setup Instructions
 
