@@ -34,6 +34,7 @@ This project is an AI-powered chatbot that allows users to upload **multiple PDF
 ### Sample Output
 
 User: What is the admission procedure?
+
 Bot: The admission process includes online registration, document verification, and an entrance exam.
 
 
