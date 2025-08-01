@@ -35,6 +35,13 @@ This project is an **AI-powered chatbot** for E-Commerce platforms that can hand
 
 ---
 
+## Sample Output
+
+    💬 User: Cancel my order #12345
+    
+    🤖 Bot: Order #12345 (Smart Watch) has been cancelled. Refund will be processed within 3–5 business days.
+
+
 ## 🔐 Setup Instructions
 
 1. **Clone the repo**
