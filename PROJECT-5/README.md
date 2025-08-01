@@ -26,6 +26,17 @@ Turn any PDF into an engaging **AI-narrated podcast**! This project transforms u
 
 ---
 
+## Sample Output
+
+      Title: The Future of AI  
+      
+      Summary: A short episode exploring how AI is transforming industries and shaping the future.
+      
+      🎧 Audio: [Podcast audio plays below]
+      
+      📥 Download available
+
+
 ## 🔐 Setup Instructions
 
 1. **Clone the repo**
