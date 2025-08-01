@@ -31,6 +31,12 @@ This project is an AI-powered chatbot that allows users to upload **multiple PDF
 ### 🚀 Live Demo
 👉 [Click here to use the deployed chatbot](https://smartpdfbot-d7npwcop5pbahvuxmk265t.streamlit.app/)
 
+### Sample Output
+
+User: What is the admission procedure?
+Bot: The admission process includes online registration, document verification, and an entrance exam.
+
+
 
 ## 🔐 Setup
 
