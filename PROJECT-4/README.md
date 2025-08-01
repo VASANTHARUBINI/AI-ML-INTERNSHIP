@@ -27,6 +27,22 @@ This project is an **AI-powered academic companion** that helps students learn s
 
 ---
 
+## Sample Output
+
+      📝 Summary:
+      - AI is the simulation of human intelligence.
+      - It includes ML, deep learning, NLP, etc.
+      - Used in robotics, finance, healthcare, and more.
+      
+      🧠 Quiz:
+      Q1: What does AI stand for?
+      a) Automatic Intelligence  
+      b) Artificial Intelligence  
+      c) Advanced Integration  
+      d) Actual Intelligence  
+      ✅ Answer: b
+
+
 ## 🔐 Setup Instructions
 
 1. **Clone the repo**
